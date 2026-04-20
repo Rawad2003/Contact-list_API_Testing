@@ -58,6 +58,7 @@ The API testing covered the following modules:
 * 🔗 RTM (Requirement Traceability Matrix)
 * 📊 Test Cases
 * 📈 Test Summary Report
+* 🎥 Powerpoint Presentation
 
 ---
 
